@@ -1,0 +1,7 @@
+# 忽略Python模块的缓存文件
+/PPI/__pycache__
+
+
+# 忽略IDE缓存文件
+/.idea
+/vs
